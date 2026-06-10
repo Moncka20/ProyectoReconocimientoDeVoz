@@ -24,9 +24,3 @@ npx http-server -p 8080
 ## Uso
 - Pulsa el botón de grabar para iniciar el reconocimiento de voz.
 - Revisa la consola del navegador para mensajes y errores.
-
-## Contribuciones
-Si quieres mejorar el proyecto, abre un issue o envía un pull request con cambios claros.
-
-## Licencia
-Sin licencia explícita. Contacta al autor para usos comerciales o distribución.
